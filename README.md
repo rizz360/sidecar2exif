@@ -1,3 +1,9 @@
+<p align="center">
+  <strong><span style="color:red; font-size:1.2em;">🚧 DRAFT — WORK IN PROGRESS</span></strong><br>
+  <em>This project is not production-ready. Use at your own risk!</em>
+</p>
+
+
 # sidecar2exif
 
 💾 Inject EXIF metadata from Immich-go JSON sidecars into your photos and videos
